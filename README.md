@@ -8,6 +8,7 @@ Actors:
     - select date&time , select seats
     - apply if any offers available
     - complete payment and book tickets
+    - print ticket
     - cancel/reschdule movie/event
     - can share ticket details to others
     - can give feedback on movies/events/location
@@ -38,4 +39,10 @@ Actors:
     - managing offers
     - Manage advertisement and promotions
     - manage feeback
+
+
+SOLID principles
+
+    1. handling payment methods(CRUD) - Dependency Inversion
+    2. User roles for different logins - Liskov Substitution Principle
 
