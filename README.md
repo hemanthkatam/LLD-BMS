@@ -3,13 +3,13 @@ Bookmyshow
 Actors:
 
 1. User- sequence of operations by end user
-        - Login/registration
-        - search prefered movie/event based on language ot others
-        - select date&time , select seats
-        - apply if any offers available
-        - complete payment and book tickets
-        - cancel/reschdule movie/event
-        - can share ticket details to others
+    - Login/registration
+    - search prefered movie/event based on language ot others
+    - select date&time , select seats
+    - apply if any offers available
+    - complete payment and book tickets
+    - cancel/reschdule movie/event
+    - can share ticket details to others
     - can give feedback on movies/events/location
     - can interest on movie/event
     - can set to get notified for preferred movie update
