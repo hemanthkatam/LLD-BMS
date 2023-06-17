@@ -3,9 +3,10 @@ Bookmyshow
 Actors:
 
 1. User- sequence of operations by end user
+
         - Login/registration
     a. Ticket booking
-        - search prefered movie/event 
+        - search prefered movie/event based on language ot others
         - select date&time , select seats
         - apply if any offers available
         - complete payment and book tickets
