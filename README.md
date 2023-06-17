@@ -31,7 +31,7 @@ Actors:
     - show near by theatres first to users
     - calcualte total price and send to user
     - manage booking, (handle concurrent bookings)
-    - manage payments
+    - manage payments (adding/deleting/updating payments)
     - send notifications to users on booked tickets with date, location
     - send notifications on upcoming releases & any offers
     - send notifications on offers to users
