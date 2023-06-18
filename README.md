@@ -46,3 +46,22 @@ SOLID principles
     1. handling payment methods(CRUD) - Dependency Inversion
     2. User roles for different logins - Liskov Substitution Principle
 
+
+Factory design pattern
+
+    1. Login manager
+        -handle different types of user
+    2. Event manager
+        -Movie Manager
+            - Movier
+        -Other Event Manager
+            -Other events
+
+Observer design pattern
+    1. Notification manager
+        -subscribe for notification
+        -unscrubscribe for notification
+        -send notification on time remainders/notifications
+    2. Advertisement Manager
+        -send upcoming events/movies to user
+
